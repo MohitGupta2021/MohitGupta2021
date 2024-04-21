@@ -1,10 +1,10 @@
 ### 👨‍💻 Bio: Mohit Gupta
 
 #### About Me
-Passionate about driving innovation in the automotive industry through software solutions. I'm Mohit Gupta, a seasoned software engineer with a love for crafting cutting-edge technology that powers the cars of tomorrow. With [X] years of experience in automotive software development, I thrive on the challenge of creating robust, efficient, and user-friendly software solutions.
+Passionate about driving innovation in the automotive industry through software solutions. I'm Mohit Gupta, a seasoned software engineer with a love for crafting cutting-edge technology that powers the Vehicles of tomorrow. With 2 years of experience in automotive software development, I thrive on the challenge of creating robust, efficient, and user-friendly software solutions.
 
 #### Expertise
-- 🚗 Automotive Software Development: Designing and implementing software solutions for embedded systems, vehicle diagnostics, telematics, and connected Vehicle applications.
+- 🚗 Automotive Software Development: Designing and implementing software solutions for embedded systems, vehicle diagnostics, and connected Vehicle applications.
 - ⚙️ Safety-Critical Systems: Ensuring compliance with industry standards and regulations for safety-critical software, including ISO 26262, MISRA C.
 - 💻 Embedded Systems: Developing software for real-time operating systems (RTOS) and microcontroller-based platforms, optimizing performance and resource utilization.
 - 🔌 Communication Protocols: Proficient in CAN, J1939,UDS,ISOBUS, and other automotive communication protocols, facilitating seamless interaction between vehicle components and external systems.
