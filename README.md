@@ -34,6 +34,7 @@ Beyond automotive software development, I have a strong passion for exploring an
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
  
 </div>
+
 #### Connect with Me
 - 🌐 LinkedIn: [Mohit Gupta](https://www.linkedin.com/in/mohit-gupta-a53526125)
 - 📧 Email: [porwalmohit789@gmail.com](mailto:porwalmohit789@gmail.com)
