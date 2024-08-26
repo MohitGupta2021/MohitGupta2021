@@ -34,9 +34,14 @@ Beyond automotive software development, I have a strong passion for exploring an
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
  
 </div>
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohitGupta2021&theme=dark&background=000000)](https://git.io/streak-stats)
 
 #### Connect with Me
 - 🌐 LinkedIn: [Mohit Gupta](https://www.linkedin.com/in/mohit-gupta-a53526125)
 - 📧 Email: [porwalmohit789@gmail.com](mailto:porwalmohit789@gmail.com)
+
 
 Let's connect and collaborate on exciting projects at the intersection of automotive technology and software innovation!
