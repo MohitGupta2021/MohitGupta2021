@@ -39,6 +39,8 @@ Beyond automotive software development, I have a strong passion for exploring an
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohitGupta2021&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitGupta2021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Connect with Me
 - 🌐 LinkedIn: [Mohit Gupta](https://www.linkedin.com/in/mohit-gupta-a53526125)
 - 📧 Email: [porwalmohit789@gmail.com](mailto:porwalmohit789@gmail.com)
