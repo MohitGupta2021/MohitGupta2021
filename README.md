@@ -1,7 +1,7 @@
 ### 👨‍💻 Bio: Mohit Gupta
 
 #### About Me
-Passionate about driving innovation in the automotive industry through software solutions. I'm Mohit Gupta, a seasoned software engineer with a love for crafting cutting-edge technology that powers the Vehicles of tomorrow. With 2 years of experience in automotive software development, I thrive on the challenge of creating robust, efficient, and user-friendly software solutions.
+Passionate about driving innovation in the automotive industry through software solutions. I'm Mohit Gupta, a seasoned software engineer with a love for crafting cutting-edge technology that powers the Vehicles of tomorrow. With 3.5 years of experience in software development, I thrive on the challenge of creating robust, efficient, and user-friendly software solutions.
 
 #### Expertise
 - 🚗 Automotive Software Development: Designing and implementing software solutions for embedded systems, vehicle diagnostics, and connected Vehicle applications.
@@ -40,7 +40,7 @@ Beyond automotive software development, I have a strong passion for exploring an
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohitGupta2021&theme=dark&background=000000)](https://git.io/streak-stats)
 
 #### Connect with Me
-- 🌐 LinkedIn: [Mohit Gupta](https://www.linkedin.com/in/mohit-gupta-a53526125)
+- 🌐 LinkedIn: [Mohit Gupta](https://in.linkedin.com/in/mohitguptadev)
 - 📧 Email: [porwalmohit789@gmail.com](mailto:porwalmohit789@gmail.com)
 
 
